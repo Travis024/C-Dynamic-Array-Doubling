@@ -1,2 +1,2 @@
-# Dynamic-Array-Doubling
-A program that utilizes dynamic memory space to double arrays, similar to as seen in a vector. The description of the assignment can be found in this repository, as well as the code itself.
+# File IO and Arrays
+This program utilizes file input and output and arrays to look for matches in an uploaded file.
